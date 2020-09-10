@@ -1,0 +1,11 @@
+.bot{background-color: ivory; width: 1300px; padding: 20px; position: relative;}
+.lint{background-color: ivory; position: bottom; padding: 20px; top: 20px; font-size: 20px; color: blue; font-family: times new roman;}
+p{text-indent: 2.0em;}
+a:hover {color: gold; text-decoration: none; font-weight: none }
+
+
+.box{background-color: maroon; width: 550px; padding: 20px; position: relative;}
+		.meme_top{position: top; padding: 0px; top: 40px; font-size: 30px; color: white; font-family: impact;}
+		.meme_bottom{position: bottom; padding: 0px; top: 40px; font-size: 30px; color: white; font-family: impact;}
+		.link{background-color: white; position: bottom; padding: 20px; top: 20px; font-size: 20px; color: blue; font-family: impact;}
+		.image_credit{background-color: maroon; position: bottom; padding: 0px; top: 20px; font-size: 20px; color: teal; font-family: impact;}
